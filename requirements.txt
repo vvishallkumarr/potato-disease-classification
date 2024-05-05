@@ -1,5 +1,4 @@
-Flask==2.0.1
+flask
 tensorflow
 numpy
 matplotlib
-Werkzeug==2.2.2
